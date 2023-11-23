@@ -1,0 +1,11 @@
+/******medias****/
+@media (max-width: 576px){ /*max width-576 significa mayores a 576px*/
+
+    .g2, h1{
+        font-size: 50px;
+    }
+
+    .video{
+        width:100%;
+    }
+}

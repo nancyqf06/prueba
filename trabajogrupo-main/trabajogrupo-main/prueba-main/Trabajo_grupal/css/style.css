@@ -1,0 +1,104 @@
+.banner {
+    display: flex;
+    align-items: center;
+    position: relative;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-image: url('../imagenes/aquarium1.jpg');
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.404);      
+}
+
+.banner2 {
+    display: flex;
+    align-items: center;
+    position: relative;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    background-image: url('../imagenes/reef.jpg');
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.404);      
+}
+
+footer{
+    background-color: black;
+    font-size: 25px;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.p1{
+    font-size: 25px;
+}
+.g2, h1{
+    top: 295px;
+    font-family: 'Mr Dafoe';
+    font-size:75px;
+    color: #3c65eef8;
+    text-shadow: 1px 2px 0px #000;
+}
+h1{
+    color:#0000;
+}
+
+.viewsshadow {
+    border-radius: 10px;
+    border: rgba(38, 38, 137, 0.349) 8px solid;
+    box-shadow: #67666682 8px 8px 8px;
+}
+
+.views {
+    height: 500px;
+    border-radius: 10px;
+}
+
+.anticipa {
+    font-family: 'Mr Dafoe';
+    font-size: 35px;
+}
+
+.tickets {
+    background-color: rgba(38, 38, 137, 0.63);
+    font-weight: bold;
+}
+
+.banner2text {
+    font-family: 'Mr Dafoe';
+    color: white;
+    font-size: 45px;
+}
+
+.entradas {
+    font-family: 'Mr Dafoe';
+    color: #3c65eef8;
+    font-size: 35px;
+    text-shadow: rgba(40, 39, 39, 0.263) 4px 4px 4px;
+}
+
+.precios {
+    font-family: 'Mr Dafoe';
+    font-size: 25px;
+}
+
+.precioshadow {
+    box-shadow: rgba(71, 71, 71, 0.463) 4px 8px 10px 4px;
+    border-radius: 20px;
+}
+
+.img-atracciones{
+    width:100%;
+}
+
+h4{
+    font-weight: bolder;
+}
+
+.ticketsbtn {
+    background-color: rgba(38, 38, 137, 0.63);
+    font-weight: bold;
+    border-radius: 4px;
+}
